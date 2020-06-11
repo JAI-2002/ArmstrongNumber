@@ -6,3 +6,4 @@
 
 ## Problem Solution:
 - Take in an integer and store it in a variable.
+- Convert each digit of the number to a string variable and store it in a list.
