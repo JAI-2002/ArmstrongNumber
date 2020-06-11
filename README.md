@@ -1,2 +1,2 @@
 # Armstrong Number:
-program takes a number and checks if it is an Armstrong number.
+### This is a Python Program to check if a number is an Armstrong number.
