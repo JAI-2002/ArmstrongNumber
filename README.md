@@ -9,3 +9,4 @@
 - Convert each digit of the number to a string variable and store it in a list.
 - Then cube each of the digits and store it in another list.
 - Find the sum of the cube of digits in the list and check if it is equal to the original number.
+- Print the final result.
