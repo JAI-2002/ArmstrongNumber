@@ -1,2 +1,2 @@
-# ArmstrongNumber
+# Armstrong Number:
 program takes a number and checks if it is an Armstrong number.
