@@ -1,3 +1,4 @@
+# Take input from the user.
 n=int(input("Enter any number: "))
 a=list(map(int,str(n)))
 b=list(map(lambda x:x**3,a))
