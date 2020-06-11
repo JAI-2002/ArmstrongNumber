@@ -7,3 +7,4 @@
 ## Problem Solution:
 - Take in an integer and store it in a variable.
 - Convert each digit of the number to a string variable and store it in a list.
+- Then cube each of the digits and store it in another list.
